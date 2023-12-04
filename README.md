@@ -10,3 +10,4 @@
 |[NextJS와 ISR](https://velog.io/@seungchan__y/NextJS%EC%99%80-ISR#-isr%EC%9D%B4%EB%9E%80)|`Frontend` `Next` `React`|
 |[FE 성능개선기 1부: 주문하기](https://tech.kakao.com/2023/06/13/fe-performance-improvement-1/)|`Frontend` `React` `최적화`|
 |[FE 성능개선기 2부: 카카오 비즈니스폼](https://tech.kakao.com/2023/06/13/fe-performance-improvement-2/)|`Frontend` `React` `최적화`|
+|[캐시 시스템 설계할 때 기억해야 할 6가지 캐싱 전략](https://soobing.github.io/cs/6-caching-strategies/)|`Cache` `개발방법`|
