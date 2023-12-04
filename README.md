@@ -11,3 +11,8 @@
 |[FE 성능개선기 1부: 주문하기](https://tech.kakao.com/2023/06/13/fe-performance-improvement-1/)|`React` `최적화`|
 |[FE 성능개선기 2부: 카카오 비즈니스폼](https://tech.kakao.com/2023/06/13/fe-performance-improvement-2/)|`React` `최적화`|
 |[캐시 시스템 설계할 때 기억해야 할 6가지 캐싱 전략](https://soobing.github.io/cs/6-caching-strategies/)|`Cache` `개발방법`|
+|[우리들을 위한 디자인 패턴](https://soobing.github.io/cs/design-patterns-for-humans/)|`Pattern` `개발방법`|
+|[Node.js 비동기 흐름 제어 및 이벤트 루프](https://velog.io/@surim014/nodejs-asynchronous-flow-control-and-event-loop?utm_source=substack&utm_medium=email)|`Node` `비동기` `이벤트 루프` `javascript`|
+|[리액트로 인해 잊었거나 전혀 몰랐던 것들](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)|`React`|
+|[React 18이 애플리케이션 성능을 개선하는 방법](https://velog.io/@sehyunny/how-react-18-improves-app-perf?utm_source=substack&utm_medium=email)|`React` `최적화`|
+|[useEffect는 종종 페인트(paint) 이전에 동작합니다.](https://velog.io/@lky5697/unintentional-layout-effect?utm_source=substack&utm_medium=email)|`React` `useEffect`|
