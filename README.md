@@ -16,3 +16,13 @@
 |[리액트로 인해 잊었거나 전혀 몰랐던 것들](https://ktseo41.github.io/blog/log/things-you-forgot-or-never-knew-because-of-react.html)|`React`|
 |[React 18이 애플리케이션 성능을 개선하는 방법](https://velog.io/@sehyunny/how-react-18-improves-app-perf?utm_source=substack&utm_medium=email)|`React` `최적화`|
 |[useEffect는 종종 페인트(paint) 이전에 동작합니다.](https://velog.io/@lky5697/unintentional-layout-effect?utm_source=substack&utm_medium=email)|`React` `useEffect`|
+|[CommonJS가 자바스크립트를 해치고 있습니다](https://velog.io/@eunbinn/commonjs-is-hurting-javascript?utm_source=substack&utm_medium=email)|`javascript``module`
+|[가상 DOM: 블록으로 돌아가기](https://ktseo41.github.io/blog/log/virtual-dom-back-in-block.html)|`React``DOM`
+|[React Query를 사용하여 서버 상태를 관리하는 방법](https://soobing.github.io/react/How-to-manage-server-state-with-React-Query/)|`Server State``React-Query`
+|[리액트 동시성 이해하기](https://velog.io/@eunbinn/react-concurrency?utm_source=substack&utm_medium=email)|`React``동시성`
+|[2023년 Vue에게 기대할 수 있는 점과 React와의 차이점](https://ktseo41.github.io/blog/log/what-to-expect-from-vue-in-2023-and-how-it-differs-from-react.html)|`Vue`
+|[StructuredClone API를 사용하여 객체를 깊은 복사하는 법](https://soobing.github.io/javascript/deep-copying-objects-with-the-structuredclone-api/)|`javascript`
+|[Mastering Web Accessibility: A Guide for Frontend Developers](https://dev.to/bellatrick/mastering-web-accessibility-a-guide-for-frontend-developers-48ad)|`React``Next`
+|[리액트 모범 사례 다시 생각하기](https://ykss.netlify.app/translation/rethinking_react_best_practices/?utm_source=substack&utm_medium=email)|`React``Cache``최적화`
+|[자바스크립트 가비지 컬렉터 실험](https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector?utm_source=substack&utm_medium=email)|`javascript``가비지컬렉터``메모리`
+|[대규모 프런트엔드 프로젝트를 빌드하고 제공하기](https://ykss.netlify.app/translation/building_and_delivering_frontends_at_scale/?utm_source=substack&utm_medium=email)|`Bundler``개발방법``최적화`
